@@ -1,2 +1,1 @@
 # Hi, I'm Saif 👋
-[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifmb0)](https://github.com/anuraghazra/github-readme-stats)
