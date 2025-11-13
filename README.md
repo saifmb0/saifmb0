@@ -5,7 +5,7 @@ I'm a 3rd-year Software Engineering student at Al Ain University, specializing i
 * 🔭 I’m currently leading my undergraduate research team and building our internal tool, **"The Paper Trail"**.
 * 🌱 I’m digging deep into **Retrieval-Augmented Generation (RAG)** and **DevOps** practices.
 * 💼 I work as a **Data Science Intern** at **LuxAI** and as a **Lead Developer Intern** for the **Himaya71** platform.
-* 📫 How to reach me: **[mb.seifeldin@gmail.com]** or on [LinkedIn](https://linkedin.com/in/saif-abdellatif)
+* 📫 How to reach me: **mb.seifeldin@gmail.com** or on [LinkedIn](https://linkedin.com/in/saif-abdellatif)
 
 ---
 
