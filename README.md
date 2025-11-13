@@ -24,6 +24,6 @@ I'm a 3rd-year Software Engineering student at Al Ain University, specializing i
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats-amber.vercel.app/api?username=saifmb0&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&title_color=60a5fa&icon_color=a78bfa" alt="Saif's GitHub Stats" />
+  <img src="https://ghstats-amber.vercel.app/api?username=saifmb0&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&title_color=60a5fa&icon_color=a78bfa&hide=prs,issues" alt="Saif's GitHub Stats" />
   <img src="https://ghstats-amber.vercel.app/api/top-langs/?username=saifmb0&layout=compact&include_all_commits=true&theme=transparent&hide_border=true&title_color=60a5fa&text_color=FFFFFF" alt="Top Languages" />
 </p>
