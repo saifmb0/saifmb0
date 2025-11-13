@@ -4,7 +4,7 @@ I'm a 3rd-year Software Engineering student at Al Ain University, specializing i
 
 * 🔭 I’m currently part of an undergraduate research team and building our internal tool, **"Trace"**.
 * 🌱 I’m digging deep into **Retrieval-Augmented Generation (RAG)**, **DevOps** and **Vision Transformers**.
-* 💼 I work as a **Data Science Intern** at **LuxAI** and as a **Software Engineering Intern** for the **Himaya71** platform.
+* 💼 Feel free to contact me with projects or collaboration ideas!.
 * 📫 How to reach me: **mb.seifeldin@gmail.com** or on [LinkedIn](https://linkedin.com/in/saif-abdellatif)
 
 ---
