@@ -1,7 +1,5 @@
 # Hi, I'm Saif (saifmb0) 👋
-
-I'm a 3rd-year Software Engineering student at Al Ain University, specializing in **Backend Development** and **Applied AI**. I'm passionate about building robust systems, from complex RAG pipelines to full-stack web applications.
-
+AI Engineer & Researcher. Specializing in low-latency RAG systems, ViTs, and Backend Infrastructure. Currently building @ LuxAI & AAU.
 * 🔭 I’m currently part of an undergraduate research team and building our internal tool, **"Trace"**.
 * 🌱 I’m digging deep into **Retrieval-Augmented Generation (RAG)**, **DevOps** and **Vision Transformers**.
 * 💼 Feel free to contact me with projects or collaboration ideas!.
