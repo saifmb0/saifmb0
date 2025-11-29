@@ -1,6 +1,6 @@
 # Hi, I'm Saif (saifmb0) 👋
 AI Engineer & Researcher. Specializing in low-latency RAG systems, ViTs, and Backend Infrastructure. Currently building @ LuxAI & AAU.
-* 🔭 I’m currently part of an undergraduate research team and building our internal tool, **"Trace"**.
+* 🔭 I’m currently part of an AI research team at Al Ain University.
 * 🌱 I’m digging deep into **Retrieval-Augmented Generation (RAG)**, **DevOps** and **Vision Transformers**.
 * 💼 Feel free to contact me with projects or collaboration ideas!.
 * 📫 How to reach me: **contact@saifmb.com** or on [LinkedIn](https://linkedin.com/in/saif-abdellatif)
