@@ -14,6 +14,6 @@ AI Engineer & Researcher. Specializing in low-latency RAG systems, ViTs, and Bac
 ---
 
 <p align="center">
-  <img src="https://ghstats-amber.vercel.app/api?username=saifmb0&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&hide_border=true&title_color=60a5fa&icon_color=a78bfa&hide=prs,issues" alt="Saif's GitHub Stats" />
+  <img src="https://ghstats-amber.vercel.app/api?username=saifmb0&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&hide_border=true&title_color=60a5fa&icon_color=a78bfa&hide=prs,issues,stars" alt="Saif's GitHub Stats" />
   <img src="https://ghstats-amber.vercel.app/api/top-langs/?username=saifmb0&layout=compact&include_all_commits=true&theme=transparent&hide_border=true&title_color=60a5fa&text_color=FFFFFF&hide=php,html,css" alt="Top Languages" />
 </p>
