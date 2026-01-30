@@ -1,7 +1,7 @@
 # Hi, I'm Saif
 AI Engineer & Researcher. Focusing on cost-efficient infrastructure and inference. Currently building @ LuxAI & AAU.
 * 🔭 Researching computational inefficiencies in Vision Transformers through Structured Token Pruning at Al Ain University.
-* 🌱 Building [Reelwise](https://reelwise.saifmb.com) at LuxAI, an SEO tool for Instagram Reels that processes 200+ reels per batch using Transformer pipelines.
+* 🌱 Building [Reelwise](https://reelwise.saifmb.com) at LuxAI, a high-throughput video inference pipeline processing 200+ streams/batch. Optimized VRAM usage via quantization and lightweight filtration.
 * 📫 How to reach me: **[contact@saifmb.com](mailto:contact@saifmb.com)** or on [LinkedIn](https://saifmb.com/linkedin)
 ### 💻 My Tech Stack
 
