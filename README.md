@@ -1,5 +1,5 @@
-# Hi, I'm Saif
-Focusing on cost-efficient inference in Transformers. Research Assistant @ Al Ain University.
+# Hi, I'm Saif 👋
+3rd year undergraduate focusing on cost-efficient inference in Transformers. Research Assistant @ Al Ain University.
 * Reachout: **[contact@saifmb.com](mailto:contact@saifmb.com)**
 ### Tech Stack
 
