@@ -4,7 +4,6 @@ I'm a 3rd year undergraduate focusing on cost-efficient inference in Transformer
 * **[Resume](https://saifmb.com/resume)**
 
 # Tech stack
-I mainly use these tools.
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-005CED?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C++-FF6F00?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" /> <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" /> <img src="https://img.shields.io/badge/TypeScript-76B900?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> |
