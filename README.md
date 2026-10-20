@@ -1,5 +1,5 @@
 # Hi, I'm Saif
-I'm a senior undergraduate focusing on efficient LLMs and ML Systems. Research Assistant @ Al Ain University.
+I'm a senior undergraduate focusing on efficient LLMs and ML Systems. Undergraduate Researcher @ Al Ain University.
 * Reachout at **contact@saifmb.com**, or see my **[Resume](https://saifmb.com/resume)**
 
 ## arXiv
